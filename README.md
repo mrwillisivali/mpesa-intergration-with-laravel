@@ -1,10 +1,8 @@
 ## About this project
 
-This is a laravel project that I implemented for those following my series on youtube
+This is a laravel project that intergrates Safaricom's Mpesa to a Laravel Application
 
-- [How to integrate Mpesa into your Website | Laravel](https://www.youtube.com/watch?v=XDBybewqcG8&list=PLU8fN5w-12nNPHuf-OAhZyT2mdhZC5tar).
 
-You are free to tinker with the project as you please.
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
